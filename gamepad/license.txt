@@ -1,0 +1,11 @@
+Model Information:
+* title:	GamePad
+* source:	https://sketchfab.com/3d-models/gamepad-4c134fdcc85846879eb98957fa49e7fc
+* author:	Sosty_ar (https://sketchfab.com/Sosty_ar)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "GamePad" (https://sketchfab.com/3d-models/gamepad-4c134fdcc85846879eb98957fa49e7fc) by Sosty_ar (https://sketchfab.com/Sosty_ar) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
